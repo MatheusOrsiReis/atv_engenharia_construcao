@@ -1,0 +1,18 @@
+POST http://localhost:3000/funcionario
+Content-Type: application/json
+
+{
+    "nome" : "Matheus",
+    "email" : "matheus@gmail.com",
+    "senha" : "123"
+}
+
+###
+POST http://localhost:3000/obra
+Content-Type: application/json
+
+{
+    "nome" : "Matheus",
+    "endereco" : "matheus@gmail.com",
+    "cnpj" : "123"
+}

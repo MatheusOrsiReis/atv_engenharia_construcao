@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}
+
+button, input, nav a{
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+}
